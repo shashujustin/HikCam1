@@ -1,0 +1,4 @@
+/home/dart/Desktop/HikCam1/build/CMakeFiles/HikCamLib.dir
+/home/dart/Desktop/HikCam1/build/CMakeFiles/GreenDetector.dir
+/home/dart/Desktop/HikCam1/build/CMakeFiles/edit_cache.dir
+/home/dart/Desktop/HikCam1/build/CMakeFiles/rebuild_cache.dir
