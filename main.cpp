@@ -9,7 +9,7 @@
 class GreenCircleDetector {
 public:
     GreenCircleDetector() {
-        // 初始化绿色范围（针对前哨站灯光优化）
+        // 初始化绿色范围
         init_green_range();
         
         // 创建显示窗口
